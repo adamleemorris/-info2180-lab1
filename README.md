@@ -1,5 +1,5 @@
 # -info2180-lab1
-This is Lab 1 for <Adam-Lee Morris>
+This is Lab 1 for Adam-Lee Morris
 
 ## Branching
 Branching allows you to isolate development work without
